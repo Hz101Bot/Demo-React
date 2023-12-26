@@ -1,3 +1,3 @@
 # Demo-React
 
-Reach App
+React App
